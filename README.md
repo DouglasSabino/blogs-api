@@ -7,6 +7,7 @@
 * MSC
 * JWT
 * JOI
+* JsDoc
 * dotenv
 * Sequelize
 
