@@ -5,6 +5,7 @@
 * NodeJS
 * express
 * MSC
+* SQL
 * JWT
 * JOI
 * JsDoc
